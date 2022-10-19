@@ -9,15 +9,12 @@
   "extensions.autoUpdate": false,
   "files.autoSave": "onFocusChange",
   "files.exclude": {
-    "**/*.egg-info": true,
     ".gitpod.yml": true,
-    "LICENSE": true,
-    ".vscode/": true,
-    "**/__pycache__": true,
-    ".gitignore": true,
     ".mypy_cache": true,
-    "coverage.xml": true,
-    ".pytest_cache": true
+    ".pytest_cache": true,
+    "**/__pycache__": true,
+    "**/*.egg-info": true,
+    "coverage.xml": true
   },
   "editor.mouseWheelZoom": true,
   "python.linting.pylintEnabled": false,
