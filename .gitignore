@@ -1,6 +1,9 @@
 # Visual Studio Code settings
 .vscode/
 
+# .env file
+.env
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
